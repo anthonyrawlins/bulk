@@ -12,6 +12,17 @@ A high-performance parallel copy utility optimized for large datasets with many 
 
 ## Installation
 
+### Quick Install
+```bash
+# Clone or download the repository
+git clone https://github.com/anthonyrawlins/bulk.git
+cd bulk
+
+# Run the installer
+./install.sh
+```
+
+### Manual Install
 ```bash
 # Make executable
 chmod +x bulk
